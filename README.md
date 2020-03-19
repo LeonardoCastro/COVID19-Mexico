@@ -4,7 +4,7 @@
 
 ## Objetivos:
 
-- Crear una plataforma para _visualizar_ datos sobre la evolución de la pandemia del Coronavirus en México, ya se por entidad federativa, en conjunto, o con respecto a otros países.
+- Crear una plataforma para _visualizar_ datos sobre la evolución de la pandemia del Coronavirus en México, ya sea por entidad federativa, en conjunto, o con respecto a otros países.
 - Crear una manera fácil de descargar los datos recopilados de México. 
 - Realizar análisis con los datos existentes para generar previsiones y recomendaciones gubernamentales.
 
@@ -15,7 +15,7 @@
 
 ## Fuentes
 
-Los datos son recopilados de:
+Los datos son recopilados y actualizados de manera permanente desde:
 - [Our World in Data](https://www.worldometers.info/coronavirus/#countries)
 - [Worldometer](https://www.worldometers.info/coronavirus/#countries)
 - [John Hopkins University](https://github.com/CSSEGISandData/COVID-19)
