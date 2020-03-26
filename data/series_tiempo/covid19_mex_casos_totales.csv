@@ -1,4 +1,4 @@
-﻿Fecha,Mexico_pais,Aguascalientes,Baja California,Baja California Sur,Campeche,Chiapas,Chihuahua,Ciudad de Mexico,Coahuila,Colima,Durango,Mexico,Guanajuato,Guerrero,Hidalgo,Jalisco,Michoacán,Morelos,Nayarit,Nuevo León,Oaxaca,Puebla,Queretaro,Quintana Roo,San Luis Potosi,Sinaloa,Sonora,Tabasco,Tamaulipas,Tlaxcala,Veracruz,Yucatán,Zacatecas
+Fecha,México,Aguascalientes,Baja California,Baja California Sur,Campeche,Chiapas,Chihuahua,Ciudad de México,Coahuila,Colima,Durango,Estado de México,Guanajuato,Guerrero,Hidalgo,Jalisco,Michoacán,Morelos,Nayarit,Nuevo León,Oaxaca,Puebla,Querétaro,Quintana Roo,San Luis Potosí,Sinaloa,Sonora,Tabasco,Tamaulipas,Tlaxcala,Veracruz,Yucatán,Zacatecas
 2020-02-28,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 2020-02-29,4,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
 2020-03-01,5,0,0,0,0,1,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
@@ -24,3 +24,5 @@
 2020-03-21,251,4,8,1,0,2,2,45,3,2,5,14,4,4,3,32,0,2,1,32,2,16,14,12,9,3,2,4,3,0,7,14,1
 2020-03-22,316,4,11,1,1,2,5,56,10,2,5,22,4,4,5,41,3,2,1,35,3,16,14,12,12,4,4,5,4,0,7,19,2
 2020-03-23,356,6,11,1,1,2,5,60,12,2,5,22,7,4,5,46,8,2,1,48,2,16,14,22,12,3,2,5,4,0,7,19,2
+2020-03-24,405,6,13,2,2,2,6,66,12,2,5,21,12,6,7,46,8,2,1,52,4,22,16,22,16,5,4,6,5,0,7,24,3
+2020-03-25,475,12,14,5,2,4,6,82,12,2,5,26,19,7,7,46,10,2,4,52,7,34,18,22,17,4,4,6,6,1,7,29,3
